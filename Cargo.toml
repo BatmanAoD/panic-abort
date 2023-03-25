@@ -12,4 +12,3 @@ opt-level = 3
 panic = 'abort'
 lto = true
 opt-level = 3
-
